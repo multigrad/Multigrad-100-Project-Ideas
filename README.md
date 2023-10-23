@@ -1,4 +1,4 @@
-# Frontend Project Ideas
+#100 Frontend Project Ideas
 
 This repository contains a collection of frontend projects curated by [Multigrad] for various purposes. Each project is listed with a brief description.
 
