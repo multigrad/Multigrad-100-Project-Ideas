@@ -2,7 +2,7 @@
 
 This repository contains a collection of frontend projects developed by Multigrad for various purposes. Each project is listed with a brief description and download links if available.
 
-| Project Name | Description | Download Link |
+| Project Name | Description | Download App Link |
 | ------------ | ----------- | -------------- |
 | Project 1: Blogging Website | A blogging website that allows users to create, edit, and publish articles. Features user authentication and a user-friendly editor. | [Download](https://app.multigrad.in/project-1) |
 | Project 2: E-commerce Store | An e-commerce website with product listings, user cart, and a checkout system. Supports user accounts and product reviews. | [Download](https://app.multigrad.in/project-2) |
